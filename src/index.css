@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  color: #c2c2c2;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color:#2e2e2e;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.heading_text {
+  display: flex;
+  justify-content: center;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  font-size: 44px;
+  color: #c2c2c2;
+}
+
+.describe_text {
+  display: flex;
+  justify-content: center;
+  font-size: 25px;
+  color: #c2c2c2;
+}
+
+.social_buttons {
+  display: flex;
+  justify-content: center;
+}
+
+.in_button {
+  
+}
+
+.git_button {
+  margin-left: 2%;
+}
+
+.action_games_title {
+  display: flex;
+  justify-content: center;
+  font-size: 36px;
+}
