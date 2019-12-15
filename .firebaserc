@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "video-games-guide",
+    "videogamesguide": "video-games-guide"
+  }
+}

@@ -31,7 +31,7 @@ const colLeft = {
 
 const row = {
   width: "100%",
-  margin: "0"
+  margin: "0",
 }
 
 const in_btn = {
@@ -53,9 +53,11 @@ class HeadingText extends React.Component {
       <div>
         <h1 className="heading_text">Video Games Genres Guide</h1>
 
-        <p className="describe_text">Welcome to my Video Games Genres Guide.</p>
-        <p className="describe_text">It's a great place to learn something new about known genres, and discover new ones.</p>
-        <p className="describe_text">Have fun!</p>
+        <p className="describe_text">
+            Welcome to my Video Games Genres Guide. <br />
+            It's a great place to learn something new about known genres, and discover new ones. <br />
+            Have fun!
+        </p>
       </div>
     );
   }
@@ -192,8 +194,8 @@ function App() {
 //                                                                                                  //
 
   $(function(){
-    $("[id$='_games_icon']").on("click", function() {
-      const genre = this.id.slice(0, -5)
+    $("[id$='_games']").on("click", function() {
+      const genre = this.id
       console.log("#" + genre + "_splitter")
       $("#" + genre + "_row").slideToggle(800);
       if ($("#" + genre +"_icon").hasClass("fa-caret-up")) {
