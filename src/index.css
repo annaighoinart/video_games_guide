@@ -1,7 +1,11 @@
 body {
   width: 100%;
   margin: 0;
-  font-family: 'Montserrat', sans-serif;
+  /* font-family: 'Montserrat', sans-serif;  */
+  font-family: 'Kanit', sans-serif;
+  /* font-family: 'Permanent Marker', cursive; */
+  /* font-family: 'Alata', sans-serif; */
+  /* font-family: 'Bebas Neue', cursive; */
   color: #c2c2c2;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -11,6 +15,12 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.arrow_btn, .arrow_btn:active, .arrow_btn:focus {
+  background-color: #3d3d3d;
+  border: none;
+  outline: #3d3d3d;
 }
 
 .heading_text {
@@ -43,11 +53,22 @@ code {
   
 }
 
-.action_games_title {
+.genre_title {
   display: flex;
   justify-content: center;
+  align-items: center;
   padding: 0;
   margin: 0px;
-  font-size: 3.6vw;
+  font-size: 3vw;
   background-color: #3d3d3d;
+  border-bottom: #c2c2c2 0px solid;
+}
+
+.genre_splitter {
+  display: none;
+  background-color: #c2c2c2;
+  color: #c2c2c2;
+  margin-top: 0%;
+  margin-bottom: 0%;
+  width: 0%;
 }

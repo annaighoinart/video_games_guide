@@ -1,0 +1,54 @@
+.metroidvania_div {
+    padding-left: 6vw;
+    padding-top: 2vw;
+    padding-right: 6vw;
+    padding-bottom: 2vw;
+    background-color: #3c1a5b;
+    color: #c2c2c2;
+    height: 100%;
+}
+
+.metroidvania_red_text {
+    color: #fff748;
+}
+
+.a_metroidvania {
+    color: inherit;
+    text-decoration: none;
+}
+
+.a_metroidvania:hover {
+    color: #fff748;
+    text-decoration: none;
+    transition: 0.8s;
+}
+
+
+
+
+
+
+.survival_horror_div {
+    padding-left: 6vw;
+    padding-top: 2vw;
+    padding-right: 6vw;
+    padding-bottom: 2vw;
+    background-color: #1d1b1b;
+    color: #c2c2c2;
+    height: 100%;
+}
+
+.survival_horror_red_text {
+    color: #ec4d37;
+}
+
+.a_survival_horror {
+    color: inherit;
+    text-decoration: none;
+}
+
+.a_survival_horror:hover {
+    color: #ec4d37;
+    text-decoration: none;
+    transition: 0.8s;
+}
