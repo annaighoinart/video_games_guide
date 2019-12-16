@@ -16,16 +16,20 @@ export default function Action_rpg() {
                 <div className="col">
                     <h4>Notable games:</h4>
                     <h5>
-                        <a className="a_action_rpg" href="https://freebirdgames.com/to_the_moon/" target="_blank">To The Moon</a>,
-                        <a className="a_action_rpg" href="http://www.grimremastered.com/" target="_blank"> Grim Fandango</a>,
-                        <a className="a_action_rpg" href="http://www.nightinthewoods.com/" target="_blank"> Night in the Woods</a>
+                        <a className="a_action_rpg" href="https://elderscrolls.bethesda.net/en/skyrim" target="_blank">The Elder Scrolls V: Skyrim</a>,
+                        <a className="a_action_rpg" href="https://thewitcher.com/en/" target="_blank"> The Witcher 3: Wild Hunt</a>,
+                        <a className="a_action_rpg" href="https://www.ea.com/games/dragon-age/dragon-age-origins" target="_blank"> Dragon Age: Origins</a>,
+                        <a className="a_action_rpg" href="https://fallout.bethesda.net/en/games/fallout-new-vegas" target="_blank"> Fallout: New Vegas</a>
                     </h5>
                 </div>
                 <div className="col">
                     <h4>Notable developers:</h4>
                     <h5>
-                        <a className="a_action_rpg" href="https://fullbrig.ht/" target="_blank">FullBright</a>,
-                        <a className="a_action_rpg" href="https://www.camposanto.com/" target="_blank"> Campo Santo</a>
+                        <a className="a_action_rpg" href="https://bethesda.net/en/dashboard" target="_blank">Bethesda</a>,
+                        <a className="a_action_rpg" href="https://www.bioware.com/" target="_blank"> BioWare</a>,
+                        <a className="a_action_rpg" href="https://en.cdprojektred.com/" target="_blank"> CD Project Red</a>,
+                        <a className="a_action_rpg" href="https://www.fromsoftware.jp/ww/" target="_blank"> From Software</a>,
+                        <a className="a_action_rpg" href="https://www.rockstargames.com/" target="_blank"> Rockstar</a>
                     </h5>
                 </div>
             </div>

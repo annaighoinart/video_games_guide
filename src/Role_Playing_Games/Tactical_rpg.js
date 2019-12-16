@@ -16,16 +16,17 @@ export default function Tactical_rpg() {
                 <div className="col">
                     <h4>Notable games:</h4>
                     <h5>
-                        <a className="a_tactical_rpg" href="https://freebirdgames.com/to_the_moon/" target="_blank">To The Moon</a>,
-                        <a className="a_tactical_rpg" href="http://www.grimremastered.com/" target="_blank"> Grim Fandango</a>,
-                        <a className="a_tactical_rpg" href="http://www.nightinthewoods.com/" target="_blank"> Night in the Woods</a>
+                        <a className="a_tactical_rpg" href="https://divinity.game/" target="_blank">Divinity: Original Sin</a>,
+                        <a className="a_tactical_rpg" href="https://eternity.obsidian.net/" target="_blank"> Pillars of Eternity</a>,
+                        <a className="a_tactical_rpg" href="https://bannersaga.com/" target="_blank"> Banner Saga</a>
                     </h5>
                 </div>
                 <div className="col">
                     <h4>Notable developers:</h4>
                     <h5>
-                        <a className="a_tactical_rpg" href="https://fullbrig.ht/" target="_blank">FullBright</a>,
-                        <a className="a_tactical_rpg" href="https://www.camposanto.com/" target="_blank"> Campo Santo</a>
+                        <a className="a_tactical_rpg" href="https://www.larian.com/" target="_blank">Larian</a>,
+                        <a className="a_tactical_rpg" href="https://www.obsidian.net/" target="_blank"> Obsidian</a>,
+                        <a className="a_tactical_rpg" href="https://stoicstudio.com/" target="_blank"> Stoik</a>
                     </h5>
                 </div>
             </div>

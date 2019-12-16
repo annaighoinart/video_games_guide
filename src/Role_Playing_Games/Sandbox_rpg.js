@@ -17,16 +17,18 @@ export default function Sandbox_rpg() {
                 <div className="col">
                     <h4>Notable games:</h4>
                     <h5>
-                        <a className="a_sandbox_rpg" href="https://freebirdgames.com/to_the_moon/" target="_blank">To The Moon</a>,
-                        <a className="a_sandbox_rpg" href="http://www.grimremastered.com/" target="_blank"> Grim Fandango</a>,
-                        <a className="a_sandbox_rpg" href="http://www.nightinthewoods.com/" target="_blank"> Night in the Woods</a>
+                        <a className="a_sandbox_rpg" href="https://www.taleworlds.com/en/Games/MountAndBlade" target="_blank">Mount&Blade</a>,
+                        <a className="a_sandbox_rpg" href="https://playstarbound.com/" target="_blank"> Starbound</a>,
+                        <a className="a_sandbox_rpg" href="https://terraria.org/" target="_blank"> Terraria</a>,
+                        <a className="a_sandbox_rpg" href="https://www.minecraft.net/en-us/" target="_blank"> Minecraft</a>
                     </h5>
                 </div>
                 <div className="col">
                     <h4>Notable developers:</h4>
                     <h5>
-                        <a className="a_sandbox_rpg" href="https://fullbrig.ht/" target="_blank">FullBright</a>,
-                        <a className="a_sandbox_rpg" href="https://www.camposanto.com/" target="_blank"> Campo Santo</a>
+                        <a className="a_sandbox_rpg" href="https://www.taleworlds.com/en/Home" target="_blank">TaleWorlds</a>,
+                        <a className="a_sandbox_rpg" href="https://chucklefish.org/" target="_blank"> Chucklefish</a>,
+                        <a className="a_sandbox_rpg" href="https://re-logic.com/" target="_blank"> Re-Logic</a>
                     </h5>
                 </div>
             </div>

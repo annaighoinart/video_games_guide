@@ -17,16 +17,14 @@ export default function fppb_rpg() {
                 <div className="col">
                     <h4>Notable games:</h4>
                     <h5>
-                        <a className="a_fppb_rpg" href="https://freebirdgames.com/to_the_moon/" target="_blank">To The Moon</a>,
-                        <a className="a_fppb_rpg" href="http://www.grimremastered.com/" target="_blank"> Grim Fandango</a>,
-                        <a className="a_fppb_rpg" href="http://www.nightinthewoods.com/" target="_blank"> Night in the Woods</a>
+                        <a className="a_fppb_rpg" href="http://www.devilwhiskey.com/" target="_blank">Devil Whiskey</a>,
+                        <a className="a_fppb_rpg" href="https://store.steampowered.com/app/2100/Dark_Messiah_of_Might__Magic" target="_blank"> Dark Messiah of Might & Magic</a>,
                     </h5>
                 </div>
                 <div className="col">
                     <h4>Notable developers:</h4>
                     <h5>
-                        <a className="a_fppb_rpg" href="https://fullbrig.ht/" target="_blank">FullBright</a>,
-                        <a className="a_fppb_rpg" href="https://www.camposanto.com/" target="_blank"> Campo Santo</a>
+                        <a className="a_fppb_rpg" href="https://www.arkane-studios.com/en" target="_blank">Arkane Studios</a>
                     </h5>
                 </div>
             </div>

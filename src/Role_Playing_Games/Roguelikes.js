@@ -15,16 +15,17 @@ export default function Roguelikes() {
                 <div className="col">
                     <h4>Notable games:</h4>
                     <h5>
-                        <a className="a_roguelikes" href="https://freebirdgames.com/to_the_moon/" target="_blank">To The Moon</a>,
-                        <a className="a_roguelikes" href="http://www.grimremastered.com/" target="_blank"> Grim Fandango</a>,
-                        <a className="a_roguelikes" href="http://www.nightinthewoods.com/" target="_blank"> Night in the Woods</a>
+                        <a className="a_roguelikes" href="https://spelunkyworld.com/" target="_blank">Spelunky</a>,
+                        <a className="a_roguelikes" href="https://bindingofisaac.com/" target="_blank"> Binding of Isaac</a>,
+                        <a className="a_roguelikes" href="https://www.darkestdungeon.com/" target="_blank"> Darkest Dungeon</a>,
+                        <a className="a_roguelikes" href="http://www.bay12games.com/dwarves/" target="_blank"> Dwarf Fortress</a>
                     </h5>
                 </div>
                 <div className="col">
                     <h4>Notable developers:</h4>
                     <h5>
-                        <a className="a_roguelikes" href="https://fullbrig.ht/" target="_blank">FullBright</a>,
-                        <a className="a_roguelikes" href="https://www.camposanto.com/" target="_blank"> Campo Santo</a>
+                        <a className="a_roguelikes" href="https://twitter.com/edmundmcmillen" target="_blank">Edmund McMillen</a>,
+                        <a className="a_roguelikes" href="https://chucklefish.org/" target="_blank"> ChuckleFish</a>
                     </h5>
                 </div>
             </div>

@@ -16,16 +16,17 @@ export default function Mmorpg() {
                 <div className="col">
                     <h4>Notable games:</h4>
                     <h5>
-                        <a className="a_mmorpg" href="https://freebirdgames.com/to_the_moon/" target="_blank">To The Moon</a>,
-                        <a className="a_mmorpg" href="http://www.grimremastered.com/" target="_blank"> Grim Fandango</a>,
-                        <a className="a_mmorpg" href="http://www.nightinthewoods.com/" target="_blank"> Night in the Woods</a>
+                        <a className="a_mmorpg" href="https://worldofwarcraft.com/en-us/" target="_blank">World of Warcraft</a>,
+                        <a className="a_mmorpg" href="https://www.lineage2.com/" target="_blank"> Lineage 2</a>,
+                        <a className="a_mmorpg" href="https://www.eveonline.com/" target="_blank"> EVE Online</a>,
+                        <a className="a_mmorpg" href="https://uo.com/" target="_blank"> Ultima Online</a>
                     </h5>
                 </div>
                 <div className="col">
                     <h4>Notable developers:</h4>
                     <h5>
-                        <a className="a_mmorpg" href="https://fullbrig.ht/" target="_blank">FullBright</a>,
-                        <a className="a_mmorpg" href="https://www.camposanto.com/" target="_blank"> Campo Santo</a>
+                        <a className="a_mmorpg" href="https://www.blizzard.com" target="_blank">Blizzard</a>,
+                        <a className="a_mmorpg" href="https://us.ncsoft.com/en" target="_blank"> NCSOFT</a>
                     </h5>
                 </div>
             </div>
