@@ -1,0 +1,216 @@
+.action_rpg_div {
+    padding-left: 6vw;
+    padding-top: 2vw;
+    padding-right: 6vw;
+    padding-bottom: 2vw;
+    background-color: #161b21;
+    color: #c2c2c2;
+    height: 100%;
+}
+
+.action_rpg_red_text {
+    color: #f4a950;
+}
+
+.a_action_rpg {
+    color: inherit;
+    text-decoration: none;
+}
+
+.a_action_rpg:hover {
+    color: #f4a950;
+    text-decoration: none;
+    transition: 0.8s;
+}
+
+
+
+
+
+
+
+
+
+.mmorpg_div {
+    padding-left: 6vw;
+    padding-top: 2vw;
+    padding-right: 6vw;
+    padding-bottom: 2vw;
+    background-color: #4a274f;
+    color: #c2c2c2;
+    height: 100%;
+}
+
+.mmorpg_red_text {
+    color: #f0a07c;
+}
+
+.a_mmorpg {
+    color: inherit;
+    text-decoration: none;
+}
+
+.a_mmorpg:hover {
+    color: #f0a07c;
+    text-decoration: none;
+    transition: 0.8s;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.roguelikes_div {
+    padding-left: 6vw;
+    padding-top: 2vw;
+    padding-right: 6vw;
+    padding-bottom: 2vw;
+    background-color: #2b3252;
+    color: #c2c2c2;
+    height: 100%;
+}
+
+.roguelikes_red_text {
+    color: #fad744;
+}
+
+.a_roguelikes {
+    color: inherit;
+    text-decoration: none;
+}
+
+.a_roguelikes:hover {
+    color: #fad744;
+    text-decoration: none;
+    transition: 0.8s;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.tactical_rpg_div {
+    padding-left: 6vw;
+    padding-top: 2vw;
+    padding-right: 6vw;
+    padding-bottom: 2vw;
+    background-color: #261a73;
+    color: #c2c2c2;
+    height: 100%;
+}
+
+.tactical_rpg_red_text {
+    color: #ccf381;
+}
+
+.a_tactical_rpg {
+    color: inherit;
+    text-decoration: none;
+}
+
+.a_tactical_rpg:hover {
+    color: #ccf381;
+    text-decoration: none;
+    transition: 0.8s;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.sandbox_rpg_div {
+    padding-left: 6vw;
+    padding-top: 2vw;
+    padding-right: 6vw;
+    padding-bottom: 2vw;
+    background-color: #3c1a5b;
+    color: #c2c2c2;
+    height: 100%;
+}
+
+.sandbox_rpg_red_text {
+    color: #fff748;
+}
+
+.a_sandbox_rpg {
+    color: inherit;
+    text-decoration: none;
+}
+
+.a_sandbox_rpg:hover {
+    color: #fff748;
+    text-decoration: none;
+    transition: 0.8s;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.fppb_rpg_div {
+    padding-left: 6vw;
+    padding-top: 2vw;
+    padding-right: 6vw;
+    padding-bottom: 2vw;
+    background-color: #292826;
+    color: #c2c2c2;
+    height: 100%;
+}
+
+.fppb_rpg_red_text {
+    color: #f9d342;
+}
+
+.a_fppb_rpg {
+    color: inherit;
+    text-decoration: none;
+}
+
+.a_fppb_rpg:hover {
+    color: #f9d342;
+    text-decoration: none;
+    transition: 0.8s;
+}

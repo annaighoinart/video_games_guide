@@ -15,6 +15,12 @@ import Text_adventures from './Adventure_Games/Text_adventures';
 import Graphic_adventures from './Adventure_Games/Graphic_adventures';
 import Visual_novels from './Adventure_Games/Visual_novels';
 import Interactive_movies from './Adventure_Games/Interactive_movie';
+import Action_rpg from './Role_Playing_Games/Action_rpg';
+import Mmorpg from './Role_Playing_Games/mmorpg';
+import Roguelikes from './Role_Playing_Games/Roguelikes';
+import Tactical_rpg from './Role_Playing_Games/Tactical_rpg';
+import Sandbox_rpg from './Role_Playing_Games/Sandbox_rpg';
+import fppb_rpg from './Role_Playing_Games/First_person_party_based_rpg';
 
 
 
@@ -52,7 +58,7 @@ class HeadingText extends React.Component {
     return (
       <div>
         <h1 className="heading_text">Video Games Genres Guide</h1>
-
+        <br />
         <p className="describe_text">
             Welcome to my Video Games Genres Guide. <br />
             It's a great place to learn something new about known genres, and discover new ones. <br />
@@ -158,6 +164,7 @@ function App() {
       </div>
 
 
+
       {/*                         */}
       {/* Adventure Games display */}
       {/*                         */}
@@ -174,6 +181,29 @@ function App() {
           <Display_Tile tile={Visual_novels} />
           <Display_Tile tile={Graphic_adventures} />
       </div>
+
+
+
+      {/*                    */}
+      {/* Role-Playing Games */}
+      {/*                    */}
+
+      <h2 className="genre_title" id="role_playing_games">
+        <button type="button" className="arrow_btn"><span id="role_playing_games_icon" className="fas fa-caret-up"></span></button>
+        Role-playing Games
+      </h2>
+      <hr className="genre_splitter" id="role_playing_games_splitter" />
+      <div id="role_playing_games_row" className="row" style={row}>
+          <Display_Tile tile={Action_rpg} />
+          <Display_Tile tile={Mmorpg} />
+          <div className="w-100"></div>
+          <Display_Tile tile={Roguelikes} />
+          <Display_Tile tile={Tactical_rpg} />
+          <div className="w-100"></div>
+          <Display_Tile tile={Sandbox_rpg} />
+          <Display_Tile tile={fppb_rpg} />
+      </div>
+
 
     </div>
   );

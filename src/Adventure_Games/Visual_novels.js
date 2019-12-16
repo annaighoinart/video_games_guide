@@ -17,16 +17,16 @@ export default function Visual_novels() {
                 <div className="col">
                     <h4>Notable games:</h4>
                     <h5>
-                        <a className="a_visual_novels" href="https://www.orithegame.com/" target="_blank">Ori and the Blind Forest</a>,
-                        <a className="a_visual_novels" href="https://dead-cells.com/" target="_blank"> Dead Cells</a>,
-                        <a className="a_visual_novels" href="http://www.cellardoorgames.com/roguelegacy/" target="_blank"> Rogue Legacy</a>
+                        <a className="a_visual_novels" href="http://everlastingsummer.su/en/" target="_blank">Everlasting Summer</a>,
+                        <a className="a_visual_novels" href="http://clione.halfmoon.jp/hatoful-boyfriend/english.html" target="_blank"> Hatoful Boyfriend</a>,
+                        <a className="a_visual_novels" href="https://waifubartending.com/" target="_blank"> VA-11 HALL-A</a>,
+                        <a className="a_visual_novels" href="http://steins-gate.us/" target="_blank"> Steins;Gate</a>
                     </h5>
                 </div>
                 <div className="col">
                     <h4>Notable developers:</h4>
                     <h5>
-                        <a className="a_visual_novels" href="https://motion-twin.com/en/" target="_blank">Motion Twin</a>,
-                        <a className="a_visual_novels" href="https://www.orithegame.com/moon-studios/" target="_blank"> Moon Studios</a>
+                        <a className="a_visual_novels" href="https://sovietgames.su/?lang=en" target="_blank">Soviet Games</a>
                     </h5>
                 </div>
             </div>

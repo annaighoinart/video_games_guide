@@ -17,16 +17,16 @@ export default function Graphic_adventures() {
                 <div className="col">
                     <h4>Notable games:</h4>
                     <h5>
-                        <a className="a_graphic_adventures" href="https://www.orithegame.com/" target="_blank">Ori and the Blind Forest</a>,
-                        <a className="a_graphic_adventures" href="https://dead-cells.com/" target="_blank"> Dead Cells</a>,
-                        <a className="a_graphic_adventures" href="http://www.cellardoorgames.com/roguelegacy/" target="_blank"> Rogue Legacy</a>
+                        <a className="a_graphic_adventures" href="https://freebirdgames.com/to_the_moon/" target="_blank">To The Moon</a>,
+                        <a className="a_graphic_adventures" href="http://www.grimremastered.com/" target="_blank"> Grim Fandango</a>,
+                        <a className="a_graphic_adventures" href="http://www.nightinthewoods.com/" target="_blank"> Night in the Woods</a>
                     </h5>
                 </div>
                 <div className="col">
                     <h4>Notable developers:</h4>
                     <h5>
-                        <a className="a_graphic_adventures" href="https://motion-twin.com/en/" target="_blank">Motion Twin</a>,
-                        <a className="a_graphic_adventures" href="https://www.orithegame.com/moon-studios/" target="_blank"> Moon Studios</a>
+                        <a className="a_graphic_adventures" href="https://fullbrig.ht/" target="_blank">FullBright</a>,
+                        <a className="a_graphic_adventures" href="https://www.camposanto.com/" target="_blank"> Campo Santo</a>
                     </h5>
                 </div>
             </div>
