@@ -21,6 +21,9 @@ import Roguelikes from './Role_Playing_Games/Roguelikes';
 import Tactical_rpg from './Role_Playing_Games/Tactical_rpg';
 import Sandbox_rpg from './Role_Playing_Games/Sandbox_rpg';
 import fppb_rpg from './Role_Playing_Games/First_person_party_based_rpg';
+import Cm_simulation from './Simulation_Games/cm_simulation';
+import Life_simulation from './Simulation_Games/life_simulation';
+import Vehicle_simulation from './Simulation_Games/vehicle_simulation';
 
 
 
@@ -204,6 +207,23 @@ function App() {
           <Display_Tile tile={fppb_rpg} />
       </div>
 
+
+
+      {/*                  */}
+      {/* Simulation Games */}
+      {/*                  */}
+
+      <h2 className="genre_title" id="simulation_games">
+        <button type="button" className="arrow_btn"><span id="simulation_games_icon" className="fas fa-caret-up"></span></button>
+        Simulation Games
+      </h2>
+      <hr className="genre_splitter" id="simulation_games_splitter" />
+      <div id="simulation_games_row" className="row" style={row}>
+          <Display_Tile tile={Cm_simulation} />
+          <Display_Tile tile={Vehicle_simulation} />
+          <div className="w-100"></div>
+          <Display_Tile tile={Life_simulation} />
+      </div>
 
     </div>
   );
