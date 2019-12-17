@@ -24,6 +24,16 @@ import fppb_rpg from './Role_Playing_Games/First_person_party_based_rpg';
 import Cm_simulation from './Simulation_Games/cm_simulation';
 import Life_simulation from './Simulation_Games/life_simulation';
 import Vehicle_simulation from './Simulation_Games/vehicle_simulation';
+import Four_x from './Strategy_Games/4x';
+import Artillery from './Strategy_Games/Artillery';
+import Rts from './Strategy_Games/rts';
+import Rtt from './Strategy_Games/rtt';
+import Moba from './Strategy_Games/moba';
+import Td from './Strategy_Games/td';
+import Tbs from './Strategy_Games/tbs';
+import Tbt from './Strategy_Games/tbt';
+import Wargame from './Strategy_Games/wargame';
+import Gsw from './Strategy_Games/gsw';
 
 
 
@@ -59,7 +69,7 @@ const git_btn = {
 class HeadingText extends React.Component {
   render() {
     return (
-      <div>
+      <div id ="heading_text">
         <h1 className="heading_text">Video Games Genres Guide</h1>
         <br />
         <p className="describe_text">
@@ -79,7 +89,7 @@ class HeadingText extends React.Component {
 class SocialButtons extends React.Component {
   render() {
     return(
-      <div>
+      <div id ="social_buttons">
         <div className="social_buttons">
           <a href="https://www.linkedin.com/in/atabala/" target="_blank" className="in_button">
             <button type="button" className="btn btn-primary btn-md" style={in_btn}>
@@ -225,6 +235,34 @@ function App() {
           <Display_Tile tile={Life_simulation} />
       </div>
 
+
+      
+      {/*                */}
+      {/* Strategy Games */}
+      {/*                */}
+
+      <h2 className="genre_title" id="strategy_games">
+        <button type="button" className="arrow_btn"><span id="strategy_games_icon" className="fas fa-caret-up"></span></button>
+        Strategy Games
+      </h2>
+      <hr className="genre_splitter" id="strategy_games_splitter" />
+      <div id="strategy_games_row" className="row" style={row}>
+          <Display_Tile tile={Four_x} />
+          <Display_Tile tile={Artillery} />
+          <div className="w-100"></div>
+          <Display_Tile tile={Rts}/>
+          <Display_Tile tile={Rtt} />
+          <div className="w-100"></div>
+          <Display_Tile tile={Moba} />
+          <Display_Tile tile={Td} />
+          <div className="w-100"></div>
+          <Display_Tile tile={Tbs} />
+          <Display_Tile tile={Tbt} />
+          <div className="w-100"></div>
+          <Display_Tile tile={Wargame} />
+          <Display_Tile tile={Gsw} />
+      </div>
+
     </div>
   );
 }
@@ -239,23 +277,35 @@ function App() {
 
 
 
-//                                                                                                  //
-// Arrow up and down function below. Does fancy slide up and down on black arrow click using jquery //
-//                                                                                                  //
-
   $(function(){
-    $("[id$='_games']").on("click", function() {
+
+
+//                               // 
+// slide title text on page open //
+//                               //
+
+    $("#heading_text").slideUp(0).slideDown(1200);
+
+//                                                                                                      //
+// Arrow up and down function below. Does fancy slide up and down (plus white splitting line animation) //
+//                                on black arrow click using jquery                                     //
+//                                                                                                      //
+
+    $("[id$='_games']").on("click", function() 
+    {
       const genre = this.id
       console.log("#" + genre + "_splitter")
       $("#" + genre + "_row").slideToggle(800);
-      if ($("#" + genre +"_icon").hasClass("fa-caret-up")) {
+      if ($("#" + genre +"_icon").hasClass("fa-caret-up")) 
+      {
         $("#" + genre +"_icon").removeClass("fa-caret-up").addClass("fa-caret-down")
         $("#" + genre + "_splitter").css("display", "block")
         $("#" + genre + "_splitter").animate({
           width: "100%"
         }, 800)
       }
-      else {
+      else 
+      {
         $("#" + genre +"_icon").removeClass("fa-caret-down").addClass("fa-caret-up")
         $("#" + genre + "_splitter").animate({
           width: "0%"
