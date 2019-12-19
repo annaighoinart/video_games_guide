@@ -16,16 +16,18 @@ export default function Rts() {
                 <div className="col">
                     <h4>Notable games:</h4>
                     <h5>
-                        <a className="a_rts" href="https://www.farming-simulator.com/" target="_blank">Farming Simulator</a>,
-                        <a className="a_rts" href="https://eurotrucksimulator2.com/" target="_blank"> Euro Truck Simulator</a>,
-                        <a className="a_rts" href="https://www.flightsimulator.com/" target="_blank"> Flight Simulator</a>
+                        <a className="a_rts" href="https://playwarcraft3.com/" target="_blank">Warcraft</a>,
+                        <a className="a_rts" href="https://starcraft2.com" target="_blank"> Starcraft</a>,
+                        <a className="a_rts" href="https://www.ageofempires.com/" target="_blank"> Age of Empires</a>,
+                        <a className="a_rts" href="https://www.worldoftropico.com" target="_blank"> Tropico</a>
                     </h5>
                 </div>
                 <div className="col">
                     <h4>Notable developers:</h4>
                     <h5>
-                        <a className="a_rts" href="https://giants-software.com/" target="_blank">Giants Software</a>,
-                        <a className="a_rts" href="https://scssoft.com/" target="_blank"> SCS Software</a>
+                        <a className="a_rts" href="https://www.blizzard.com/" target="_blank">Blizzard</a>,
+                        <a className="a_rts" href="https://www.relic.com/" target="_blank"> Relic</a>,
+                        <a className="a_rts" href="http://www.haemimontgames.com/" target="_blank"> Haemimont</a>
                     </h5>
                 </div>
             </div>

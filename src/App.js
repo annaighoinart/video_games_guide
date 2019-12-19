@@ -34,6 +34,10 @@ import Tbs from './Strategy_Games/tbs';
 import Tbt from './Strategy_Games/tbt';
 import Wargame from './Strategy_Games/wargame';
 import Gsw from './Strategy_Games/gsw';
+import Racing from './Sports_Games/Racing'
+import Ts from './Sports_Games/Ts'
+import Competitive from './Sports_Games/competitive';
+import Sbfighting from './Sports_Games/sbfighting';
 
 
 
@@ -263,6 +267,24 @@ function App() {
           <Display_Tile tile={Gsw} />
       </div>
 
+
+
+      {/*              */}
+      {/* Racing Games */}
+      {/*              */}
+
+      <h2 className="genre_title" id="racing_games">
+        <button type="button" className="arrow_btn"><span id="racing_games_icon" className="fas fa-caret-up"></span></button>
+      Racing Games
+      </h2>
+      <hr className="genre_splitter" id="racing_games_splitter" />
+      <div id="racing_games_row" className="row" style={row}>
+          <Display_Tile tile={Racing} />
+          <Display_Tile tile={Ts} />
+          <div className="w-100"></div>
+          <Display_Tile tile={Competitive}/>
+          <Display_Tile tile={Sbfighting} />
+      </div>
     </div>
   );
 }

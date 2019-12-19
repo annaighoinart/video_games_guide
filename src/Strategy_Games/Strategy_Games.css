@@ -1,15 +1,15 @@
 .four_x_div {
-    padding-left: 6vw;
+    padding-left: 4vw;
     padding-top: 2vw;
-    padding-right: 6vw;
+    padding-right: 4vw;
     padding-bottom: 2vw;
-    background-color: #243665;
+    background-color: #3d155f;
     color: #c2c2c2;
     height: 100%;
 }
 
 .four_x_red_text {
-    color: #8bd8bd;
+    color: #df678c;
 }
 
 .a_four_x {
@@ -18,7 +18,7 @@
 }
 
 .a_four_x:hover {
-    color: #8bd8bd;
+    color: #df678c;
     text-decoration: none;
     transition: 0.8s;
 }
@@ -30,17 +30,17 @@
 
 
 .artillery_div {
-    padding-left: 6vw;
+    padding-left: 4vw;
     padding-top: 2vw;
-    padding-right: 6vw;
+    padding-right: 4vw;
     padding-bottom: 2vw;
-    background-color: #243665;
+    background-color: #b67c61;
     color: #c2c2c2;
     height: 100%;
 }
 
 .artillery_red_text {
-    color: #8bd8bd;
+    color: #4a274f;
 }
 
 .a_artillery {
@@ -49,7 +49,7 @@
 }
 
 .a_artillery:hover {
-    color: #8bd8bd;
+    color: #4a274f;
     text-decoration: none;
     transition: 0.8s;
 }
@@ -65,17 +65,17 @@
 
 
 .rts_div {
-    padding-left: 6vw;
+    padding-left: 4vw;
     padding-top: 2vw;
-    padding-right: 6vw;
+    padding-right: 4vw;
     padding-bottom: 2vw;
-    background-color: #243665;
+    background-color: #b94141;
     color: #c2c2c2;
     height: 100%;
 }
 
 .rts_red_text {
-    color: #8bd8bd;
+    color: #2b3252;
 }
 
 .a_rts {
@@ -84,7 +84,7 @@
 }
 
 .a_rts:hover {
-    color: #8bd8bd;
+    color: #2b3252;
     text-decoration: none;
     transition: 0.8s;
 }
@@ -103,17 +103,17 @@
 
 
 .rtt_div {
-    padding-left: 6vw;
+    padding-left: 4vw;
     padding-top: 2vw;
-    padding-right: 6vw;
+    padding-right: 4vw;
     padding-bottom: 2vw;
-    background-color: #243665;
+    background-color: #2b3252;
     color: #c2c2c2;
     height: 100%;
 }
 
 .rtt_red_text {
-    color: #8bd8bd;
+    color: #fad744;
 }
 
 .a_rtt {
@@ -122,7 +122,7 @@
 }
 
 .a_rtt:hover {
-    color: #8bd8bd;
+    color: #fad744;
     text-decoration: none;
     transition: 0.8s;
 }
@@ -142,17 +142,17 @@
 
 
 .moba_div {
-    padding-left: 6vw;
+    padding-left: 4vw;
     padding-top: 2vw;
-    padding-right: 6vw;
+    padding-right: 4vw;
     padding-bottom: 2vw;
-    background-color: #243665;
+    background-color: #214b23;
     color: #c2c2c2;
     height: 100%;
 }
 
 .moba_red_text {
-    color: #8bd8bd;
+    color: #ffe67c;
 }
 
 .a_moba {
@@ -161,7 +161,7 @@
 }
 
 .a_moba:hover {
-    color: #8bd8bd;
+    color: #ffe67c;
     text-decoration: none;
     transition: 0.8s;
 }
@@ -181,17 +181,17 @@
 
 
 .td_div {
-    padding-left: 6vw;
+    padding-left: 4vw;
     padding-top: 2vw;
-    padding-right: 6vw;
+    padding-right: 4vw;
     padding-bottom: 2vw;
-    background-color: #243665;
+    background-color: #ac3829;
     color: #c2c2c2;
     height: 100%;
 }
 
 .td_red_text {
-    color: #8bd8bd;
+    color: #1d1b1b;
 }
 
 .a_td {
@@ -200,7 +200,7 @@
 }
 
 .a_td:hover {
-    color: #8bd8bd;
+    color: #1d1b1b;
     text-decoration: none;
     transition: 0.8s;
 }
@@ -221,17 +221,17 @@
 
 
 .tbs_div {
-    padding-left: 6vw;
+    padding-left: 4vw;
     padding-top: 2vw;
-    padding-right: 6vw;
+    padding-right: 4vw;
     padding-bottom: 2vw;
-    background-color: #243665;
+    background-color: #161b21;
     color: #c2c2c2;
     height: 100%;
 }
 
 .tbs_red_text {
-    color: #8bd8bd;
+    color: #f4a950;
 }
 
 .a_tbs {
@@ -240,7 +240,7 @@
 }
 
 .a_tbs:hover {
-    color: #8bd8bd;
+    color: #f4a950;
     text-decoration: none;
     transition: 0.8s;
 }
@@ -261,17 +261,17 @@
 
 
 .tbt_div {
-    padding-left: 6vw;
+    padding-left: 4vw;
     padding-top: 2vw;
-    padding-right: 6vw;
+    padding-right: 4vw;
     padding-bottom: 2vw;
-    background-color: #243665;
+    background-color: #a51a62;
     color: #c2c2c2;
     height: 100%;
 }
 
 .tbt_red_text {
-    color: #8bd8bd;
+    color: #080a52;
 }
 
 .a_tbt {
@@ -280,45 +280,12 @@
 }
 
 .a_tbt:hover {
-    color: #8bd8bd;
+    color: #080a52;
     text-decoration: none;
     transition: 0.8s;
 }
 
 
-
-
-
-
-
-
-
-
-
-.gsw_div {
-    padding-left: 6vw;
-    padding-top: 2vw;
-    padding-right: 6vw;
-    padding-bottom: 2vw;
-    background-color: #243665;
-    color: #c2c2c2;
-    height: 100%;
-}
-
-.gsw_red_text {
-    color: #8bd8bd;
-}
-
-.a_gsw {
-    color: inherit;
-    text-decoration: none;
-}
-
-.a_gsw:hover {
-    color: #8bd8bd;
-    text-decoration: none;
-    transition: 0.8s;
-}
 
 
 
@@ -329,17 +296,17 @@
 
 
 .wargame_div {
-    padding-left: 6vw;
+    padding-left: 4vw;
     padding-top: 2vw;
-    padding-right: 6vw;
+    padding-right: 4vw;
     padding-bottom: 2vw;
-    background-color: #243665;
+    background-color: #798f4f;
     color: #c2c2c2;
     height: 100%;
 }
 
 .wargame_red_text {
-    color: #8bd8bd;
+    color: #4831d4;
 }
 
 .a_wargame {
@@ -348,7 +315,40 @@
 }
 
 .a_wargame:hover {
-    color: #8bd8bd;
+    color: #4831d4;
+    text-decoration: none;
+    transition: 0.8s;
+}
+
+
+
+
+
+
+
+
+
+.gsw_div {
+    padding-left: 4vw;
+    padding-top: 2vw;
+    padding-right: 4vw;
+    padding-bottom: 2vw;
+    background-color: #292826;
+    color: #c2c2c2;
+    height: 100%;
+}
+
+.gsw_red_text {
+    color: #f9d342;
+}
+
+.a_gsw {
+    color: inherit;
+    text-decoration: none;
+}
+
+.a_gsw:hover {
+    color: #f9d342;
     text-decoration: none;
     transition: 0.8s;
 }

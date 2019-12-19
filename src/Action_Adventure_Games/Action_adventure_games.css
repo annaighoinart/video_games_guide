@@ -1,7 +1,7 @@
 .metroidvania_div {
-    padding-left: 6vw;
+    padding-left: 4vw;
     padding-top: 2vw;
-    padding-right: 6vw;
+    padding-right: 4vw;
     padding-bottom: 2vw;
     background-color: #3c1a5b;
     color: #c2c2c2;
@@ -29,9 +29,9 @@
 
 
 .survival_horror_div {
-    padding-left: 6vw;
+    padding-left: 4vw;
     padding-top: 2vw;
-    padding-right: 6vw;
+    padding-right: 4vw;
     padding-bottom: 2vw;
     background-color: #1d1b1b;
     color: #c2c2c2;

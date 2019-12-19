@@ -17,16 +17,16 @@ export default function Tbs() {
                 <div className="col">
                     <h4>Notable games:</h4>
                     <h5>
-                        <a className="a_tbs" href="https://www.farming-simulator.com/" target="_blank">Farming Simulator</a>,
-                        <a className="a_tbs" href="https://eurotrucksimulator2.com/" target="_blank"> Euro Truck Simulator</a>,
-                        <a className="a_tbs" href="https://www.flightsimulator.com/" target="_blank"> Flight Simulator</a>
+                        <a className="a_tbs" href="https://www.ubisoft.com/en-gb/game/heroes-of-might-and-magic-3-hd/" target="_blank">Heroes of Might and Magic</a>,
+                        <a className="a_tbs" href="https://kingsbounty2.com/" target="_blank"> King's Bounty</a>,
+                        <a className="a_tbs" href="https://xcom.com/" target="_blank"> XCOM</a>
                     </h5>
                 </div>
                 <div className="col">
                     <h4>Notable developers:</h4>
                     <h5>
-                        <a className="a_tbs" href="https://giants-software.com/" target="_blank">Giants Software</a>,
-                        <a className="a_tbs" href="https://scssoft.com/" target="_blank"> SCS Software</a>
+                        <a className="a_tbs" href="http://www.firaxis.com/" target="_blank">Firaxis</a>,
+                        New World Computing
                     </h5>
                 </div>
             </div>

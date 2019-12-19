@@ -15,16 +15,15 @@ export default function Rtt() {
                 <div className="col">
                     <h4>Notable games:</h4>
                     <h5>
-                        <a className="a_rtt" href="https://www.farming-simulator.com/" target="_blank">Farming Simulator</a>,
-                        <a className="a_rtt" href="https://eurotrucksimulator2.com/" target="_blank"> Euro Truck Simulator</a>,
-                        <a className="a_rtt" href="https://www.flightsimulator.com/" target="_blank"> Flight Simulator</a>
+                        <a className="a_rtt" href="http://www.feralinteractive.com/ru/mac-games/rometw/" target="_blank">Rome: Total War</a>,
+                        <a className="a_rtt" href="http://www.totalwar.com/shogun2" target="_blank"> Total War: Shogun</a>,
+                        <a className="a_rtt" href="https://warhammer.totalwar.com/" target="_blank"> Total War: Warhammer</a>
                     </h5>
                 </div>
                 <div className="col">
                     <h4>Notable developers:</h4>
                     <h5>
-                        <a className="a_rtt" href="https://giants-software.com/" target="_blank">Giants Software</a>,
-                        <a className="a_rtt" href="https://scssoft.com/" target="_blank"> SCS Software</a>
+                        <a className="a_rtt" href="http://www.creative-assembly.com/" target="_blank">Creative Assembly</a>
                     </h5>
                 </div>
             </div>

@@ -14,16 +14,15 @@ export default function Wargame() {
                 <div className="col">
                     <h4>Notable games:</h4>
                     <h5>
-                        <a className="a_wargame" href="https://www.farming-simulator.com/" target="_blank">Farming Simulator</a>,
-                        <a className="a_wargame" href="https://eurotrucksimulator2.com/" target="_blank"> Euro Truck Simulator</a>,
-                        <a className="a_wargame" href="https://www.flightsimulator.com/" target="_blank"> Flight Simulator</a>
+                        <a className="a_wargame" href="http://www.ontargetsimulations.com/" target="_blank">Flashpoint Campaigns: Red Storm</a>,
+                        <a className="a_wargame" href="https://www.firaxis.com/?/games/single/sid-meiers-ace-patrol" target="_blank"> Sid Meier’s Ace Patrol</a>,
+                        <a className="a_wargame" href="http://www.panthergames.com/" target="_blank"> Command Ops</a>
                     </h5>
                 </div>
                 <div className="col">
                     <h4>Notable developers:</h4>
                     <h5>
-                        <a className="a_wargame" href="https://giants-software.com/" target="_blank">Giants Software</a>,
-                        <a className="a_wargame" href="https://scssoft.com/" target="_blank"> SCS Software</a>
+                        <a className="a_wargame" href="http://www.firaxis.com/" target="_blank">Firaxis</a>
                     </h5>
                 </div>
             </div>

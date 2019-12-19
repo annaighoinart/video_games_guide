@@ -16,16 +16,14 @@ export default function Artillery() {
                 <div className="col">
                     <h4>Notable games:</h4>
                     <h5>
-                        <a className="a_artillery" href="https://www.farming-simulator.com/" target="_blank">Farming Simulator</a>,
-                        <a className="a_artillery" href="https://eurotrucksimulator2.com/" target="_blank"> Euro Truck Simulator</a>,
-                        <a className="a_artillery" href="https://www.flightsimulator.com/" target="_blank"> Flight Simulator</a>
+                        <a className="a_artillery" href="https://www.team17.com/games/worms-wmd/" target="_blank">Worms</a>,
+                        <a className="a_artillery" href="http://www.whicken.com/scorch/" target="_blank"> Scorched Earth</a>
                     </h5>
                 </div>
                 <div className="col">
                     <h4>Notable developers:</h4>
                     <h5>
-                        <a className="a_artillery" href="https://giants-software.com/" target="_blank">Giants Software</a>,
-                        <a className="a_artillery" href="https://scssoft.com/" target="_blank"> SCS Software</a>
+                        <a className="a_artillery" href="https://www.team17.com/" target="_blank">Team 17</a>
                     </h5>
                 </div>
             </div>

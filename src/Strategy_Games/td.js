@@ -18,16 +18,16 @@ export default function Td() {
                 <div className="col">
                     <h4>Notable games:</h4>
                     <h5>
-                        <a className="a_td" href="https://www.farming-simulator.com/" target="_blank">Farming Simulator</a>,
-                        <a className="a_td" href="https://eurotrucksimulator2.com/" target="_blank"> Euro Truck Simulator</a>,
-                        <a className="a_td" href="https://www.flightsimulator.com/" target="_blank"> Flight Simulator</a>
+                        <a className="a_td" href="https://www.ea.com/studios/popcap/plants-vs-zombies" target="_blank">Plants vs. Zombies</a>,
+                        <a className="a_td" href="https://www.kingdomrush.com/" target="_blank"> Kingdom Rush</a>,
+                        <a className="a_td" href="https://robotentertainment.com/omd3" target="_blank"> Orcs Must Die!</a>
                     </h5>
                 </div>
                 <div className="col">
                     <h4>Notable developers:</h4>
                     <h5>
-                        <a className="a_td" href="https://giants-software.com/" target="_blank">Giants Software</a>,
-                        <a className="a_td" href="https://scssoft.com/" target="_blank"> SCS Software</a>
+                        <a className="a_td" href="https://www.ea.com/studios/popcap" target="_blank">PopCap</a>,
+                        <a className="a_td" href="https://robotentertainment.com/" target="_blank"> Robot</a>
                     </h5>
                 </div>
             </div>

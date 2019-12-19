@@ -17,16 +17,16 @@ export default function Four_x() {
                 <div className="col">
                     <h4>Notable games:</h4>
                     <h5>
-                        <a className="a_four_x" href="https://www.farming-simulator.com/" target="_blank">Farming Simulator</a>,
-                        <a className="a_four_x" href="https://eurotrucksimulator2.com/" target="_blank"> Euro Truck Simulator</a>,
-                        <a className="a_four_x" href="https://www.flightsimulator.com/" target="_blank"> Flight Simulator</a>
+                        <a className="a_four_x" href="https://civilization.com/" target="_blank">Sid Meier's Civilization</a>,
+                        <a className="a_four_x" href="https://www.paradoxplaza.com/europa-universalis-all/" target="_blank"> Europa Universalis</a>,
+                        <a className="a_four_x" href="https://www.aow-planetfall.com/" target="_blank"> Age of Wonders</a>
                     </h5>
                 </div>
                 <div className="col">
                     <h4>Notable developers:</h4>
                     <h5>
-                        <a className="a_four_x" href="https://giants-software.com/" target="_blank">Giants Software</a>,
-                        <a className="a_four_x" href="https://scssoft.com/" target="_blank"> SCS Software</a>
+                        <a className="a_four_x" href="https://www.firaxis.com/" target="_blank">Firaxis</a>,
+                        <a className="a_four_x" href="https://www.paradoxplaza.com/" target="_blank"> Paradox</a>
                     </h5>
                 </div>
             </div>

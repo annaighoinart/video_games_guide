@@ -1,24 +1,53 @@
-.text_adventures_div {
+.racing_div {
     padding-left: 4vw;
     padding-top: 2vw;
     padding-right: 4vw;
     padding-bottom: 2vw;
-    background-color: #295f2d;
+    background-color: #3d155f;
     color: #c2c2c2;
     height: 100%;
 }
 
-.text_adventures_red_text {
-    color: #ffe67c;
+.racing_red_text {
+    color: #df678c;
 }
 
-.a_text_adventures {
+.a_racing {
     color: inherit;
     text-decoration: none;
 }
 
-.a_text_adventures:hover {
-    color: #ffe67c;
+.a_racing:hover {
+    color: #df678c;
+    text-decoration: none;
+    transition: 0.8s;
+}
+
+
+
+
+
+.ts_div {
+    padding-left: 4vw;
+    padding-top: 2vw;
+    padding-right: 4vw;
+    padding-bottom: 2vw;
+    background-color: #3d155f;
+    color: #c2c2c2;
+    height: 100%;
+}
+
+.ts_red_text {
+    color: #df678c;
+}
+
+.a_ts {
+    color: inherit;
+    text-decoration: none;
+}
+
+.a_ts:hover {
+    color: #df678c;
     text-decoration: none;
     transition: 0.8s;
 }
@@ -29,61 +58,27 @@
 
 
 
-.graphic_adventures_div {
+.competitive_div {
     padding-left: 4vw;
     padding-top: 2vw;
     padding-right: 4vw;
     padding-bottom: 2vw;
-    background-color: #243665;
+    background-color: #3d155f;
     color: #c2c2c2;
     height: 100%;
 }
 
-.graphic_adventures_red_text {
-    color: #8bd8bd;
+.competitive_red_text {
+    color: #df678c;
 }
 
-.a_graphic_adventures {
+.a_competitive {
     color: inherit;
     text-decoration: none;
 }
 
-.a_graphic_adventures:hover {
-    color: #8bd8bd;
-    text-decoration: none;
-    transition: 0.8s;
-}
-
-
-
-
-
-
-
-
-
-
-.visual_novels_div {
-    padding-left: 4vw;
-    padding-top: 2vw;
-    padding-right: 4vw;
-    padding-bottom: 2vw;
-    background-color: #141a46;
-    color: #c2c2c2;
-    height: 100%;
-}
-
-.visual_novels_red_text {
-    color: #ec8b5e;
-}
-
-.a_visual_novels {
-    color: inherit;
-    text-decoration: none;
-}
-
-.a_visual_novels:hover {
-    color: #ec8b5e;
+.a_competitive:hover {
+    color: #df678c;
     text-decoration: none;
     transition: 0.8s;
 }
@@ -98,29 +93,27 @@
 
 
 
-
-
-.interactive_movies_div {
+.sbfighting_div {
     padding-left: 4vw;
     padding-top: 2vw;
     padding-right: 4vw;
     padding-bottom: 2vw;
-    background-color: #080a52;
+    background-color: #3d155f;
     color: #c2c2c2;
     height: 100%;
 }
 
-.interactive_movies_red_text {
-    color: #eb2188;
+.sbfighting_red_text {
+    color: #df678c;
 }
 
-.a_interactive_movies {
+.a_sbfighting {
     color: inherit;
     text-decoration: none;
 }
 
-.a_interactive_movies:hover {
-    color: #eb2188;
+.a_sbfighting:hover {
+    color: #df678c;
     text-decoration: none;
     transition: 0.8s;
 }
