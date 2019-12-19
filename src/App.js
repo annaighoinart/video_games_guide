@@ -313,7 +313,7 @@ function App() {
         </div>
         <div className="col bottom_text">
           <h4>Inspiration</h4>
-          <p>Design of this website was greatly inspired by <a href="psytranceguide.com" target="_blank" className="bottom_link">psytranceguide.com</a>. <br />
+          <p>Design of this website was greatly inspired by <a href="http://psytranceguide.com/" target="_blank" className="bottom_link">psytranceguide.com</a>. <br />
             Check out <a href="http://daniellesden.com/" target="_blank" className="bottom_link">Daniel Sokolovskiy's</a> work! </p>
         </div>
         <div className="w-100"></div>
