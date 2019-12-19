@@ -75,3 +75,24 @@ code {
   margin-bottom: 0%;
   width: 0%;
 }
+
+.bottom_text {
+  padding-top: 4vw;
+  padding-left: 8vw;
+  padding-right: 8vw;
+  padding-bottom: 4vw;
+  text-align: center;
+}
+
+.bottom_link {
+  color: #c2c2c2;
+  text-decoration: none;
+  transition: 0.8s;
+  border-bottom: 1px #c2c2c2 solid;
+}
+
+.bottom_link:hover {
+  color: #fff;
+  text-decoration: none;
+  border-bottom-color: #fff;
+}

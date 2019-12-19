@@ -8,9 +8,12 @@
     "@testing-library/user-event": "^7.1.2",
     "bootstrap": "^3.4.1",
     "jquery": "^3.4.1",
+    "node-sass": "^4.13.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-scripts": "3.3.0",
+    "sass": "^1.23.7",
+    "scss": "^0.2.4",
     "stop": "^3.1.0",
     "web3": "^1.2.4"
   },

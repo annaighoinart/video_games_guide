@@ -15,18 +15,15 @@ export default function Sbfighting() {
                 <div className="col">
                     <h4>Notable games:</h4>
                     <h5>
-                        <a className="a_sbfighting" href="https://www.forzamotorsport.net/" target="_blank">Forza Motorsport</a>,
-                        <a className="a_sbfighting" href="https://www.gran-turismo.com" target="_blank"> Gran Turismo</a>,
-                        <a className="a_sbfighting" href="https://www.ea.com/games/need-for-speed" target="_blank"> Need For Speed</a>,
-                        <a className="a_sbfighting" href="https://www.projectcarsgame.com/" target="_blank"> Project Cars</a>
+                        <a className="a_sbfighting" href="https://www.ea.com/games/ufc/ufc-3" target="_blank">UFC</a>,
+                        Rocky Legends,
+                        <a className="a_sbfighting" href="https://www.ea.com/games/fight-night/fight-night-champion" target="_blank"> Fight Night: Champion</a>
                     </h5>
                 </div>
                 <div className="col">
                     <h4>Notable developers:</h4>
                     <h5>
-                        <a className="a_sbfighting" href="http://www.ghostgames.com/" target="_blank">Ghost Games</a>,
-                        <a className="a_sbfighting" href="http://www.polyphony.co.jp/" target="_blank"> Polyphony</a>,
-                        <a className="a_sbfighting" href="https://www.forzamotorsport.net/en-us/turn10" target="_blank"> Turn 10</a>
+                        <a className="a_sbfighting" href="https://www.ea.com/" target="_blank">EA</a>
                     </h5>
                 </div>
             </div>

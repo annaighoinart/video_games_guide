@@ -14,18 +14,17 @@ export default function Competitive() {
                 <div className="col">
                     <h4>Notable games:</h4>
                     <h5>
-                        <a className="a_competitive" href="https://www.forzamotorsport.net/" target="_blank">Forza Motorsport</a>,
-                        <a className="a_competitive" href="https://www.gran-turismo.com" target="_blank"> Gran Turismo</a>,
-                        <a className="a_competitive" href="https://www.ea.com/games/need-for-speed" target="_blank"> Need For Speed</a>,
-                        <a className="a_competitive" href="https://www.projectcarsgame.com/" target="_blank"> Project Cars</a>
+                        <a className="a_competitive" href="https://playoverwatch.com/en-us/" target="_blank">Overwatch</a>,
+                        <a className="a_competitive" href="https://rainbow6.ubisoft.com/siege/en-US/home/index.aspx" target="_blank"> Rainbow Six: Siege</a>,
+                        <a className="a_competitive" href="https://www.epicgames.com/fortnite/en-US/home" target="_blank"> Fortnite</a>,
+                        <a className="a_competitive" href="https://www.epicgames.com/unrealtournament/" target="_blank"> Unreal Tournament</a>
                     </h5>
                 </div>
                 <div className="col">
                     <h4>Notable developers:</h4>
                     <h5>
-                        <a className="a_competitive" href="http://www.ghostgames.com/" target="_blank">Ghost Games</a>,
-                        <a className="a_competitive" href="http://www.polyphony.co.jp/" target="_blank"> Polyphony</a>,
-                        <a className="a_competitive" href="https://www.forzamotorsport.net/en-us/turn10" target="_blank"> Turn 10</a>
+                        <a className="a_competitive" href="https://www.epicgames.com/" target="_blank">EPIC Games</a>,
+                        <a className="a_competitive" href="https://www.blizzard.com" target="_blank"> Blizzard</a>
                     </h5>
                 </div>
             </div>

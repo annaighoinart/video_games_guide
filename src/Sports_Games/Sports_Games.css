@@ -3,13 +3,13 @@
     padding-top: 2vw;
     padding-right: 4vw;
     padding-bottom: 2vw;
-    background-color: #3d155f;
+    background-color: #141a46;
     color: #c2c2c2;
     height: 100%;
 }
 
 .racing_red_text {
-    color: #df678c;
+    color: #ec8b5e;
 }
 
 .a_racing {
@@ -18,7 +18,7 @@
 }
 
 .a_racing:hover {
-    color: #df678c;
+    color: #ec8b5e;
     text-decoration: none;
     transition: 0.8s;
 }
@@ -32,13 +32,13 @@
     padding-top: 2vw;
     padding-right: 4vw;
     padding-bottom: 2vw;
-    background-color: #3d155f;
+    background-color: #4a274f;
     color: #c2c2c2;
     height: 100%;
 }
 
 .ts_red_text {
-    color: #df678c;
+    color: #f0a07c;
 }
 
 .a_ts {
@@ -47,7 +47,7 @@
 }
 
 .a_ts:hover {
-    color: #df678c;
+    color: #f0a07c;
     text-decoration: none;
     transition: 0.8s;
 }
@@ -63,13 +63,13 @@
     padding-top: 2vw;
     padding-right: 4vw;
     padding-bottom: 2vw;
-    background-color: #3d155f;
+    background-color: #2b3252;
     color: #c2c2c2;
     height: 100%;
 }
 
 .competitive_red_text {
-    color: #df678c;
+    color: #ef5455;
 }
 
 .a_competitive {
@@ -78,7 +78,7 @@
 }
 
 .a_competitive:hover {
-    color: #df678c;
+    color: #ef5455;
     text-decoration: none;
     transition: 0.8s;
 }
@@ -98,13 +98,13 @@
     padding-top: 2vw;
     padding-right: 4vw;
     padding-bottom: 2vw;
-    background-color: #3d155f;
+    background-color: #3c1a5b;
     color: #c2c2c2;
     height: 100%;
 }
 
 .sbfighting_red_text {
-    color: #df678c;
+    color: #fff748;
 }
 
 .a_sbfighting {
@@ -113,7 +113,7 @@
 }
 
 .a_sbfighting:hover {
-    color: #df678c;
+    color: #fff748;
     text-decoration: none;
     transition: 0.8s;
 }

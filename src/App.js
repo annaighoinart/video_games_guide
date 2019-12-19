@@ -38,6 +38,7 @@ import Racing from './Sports_Games/Racing'
 import Ts from './Sports_Games/Ts'
 import Competitive from './Sports_Games/competitive';
 import Sbfighting from './Sports_Games/sbfighting';
+import Logic from './Puzzle_Games/Logic_game';
 
 
 
@@ -275,15 +276,51 @@ function App() {
 
       <h2 className="genre_title" id="racing_games">
         <button type="button" className="arrow_btn"><span id="racing_games_icon" className="fas fa-caret-up"></span></button>
-      Racing Games
+      Sports Games
       </h2>
       <hr className="genre_splitter" id="racing_games_splitter" />
       <div id="racing_games_row" className="row" style={row}>
           <Display_Tile tile={Racing} />
           <Display_Tile tile={Ts} />
           <div className="w-100"></div>
-          <Display_Tile tile={Competitive}/>
           <Display_Tile tile={Sbfighting} />
+          <Display_Tile tile={Competitive}/>
+      </div>
+
+
+
+      {/*              */}
+      {/* Puzzle Games */}
+      {/*              */}
+
+      <h2 className="genre_title" id="puzzle_games">
+        <button type="button" className="arrow_btn"><span id="puzzle_games_icon" className="fas fa-caret-up"></span></button>
+      Puzzle Games
+      </h2>
+      <hr className="genre_splitter" id="puzzle_games_splitter" />
+      <div id="puzzle_games_row" className="row" style={row}>
+          <Display_Tile tile={Logic} />
+      </div>
+
+
+
+      <div className="row">
+        <div className="col bottom_text">
+          <h4>Contact the author</h4>
+          <p>If you have any questions, suggestions or if you found a bug, 
+            or just want to talk to me - send me an e-mail to 
+             <a href="mailto: andrew.tabala@gmail.com" target="_blank" className="bottom_link"> andrew.tabala@gmail.com</a></p>
+        </div>
+        <div className="col bottom_text">
+          <h4>Inspiration</h4>
+          <p>Design of this website was greatly inspired by <a href="psytranceguide.com" target="_blank" className="bottom_link">psytranceguide.com</a>. <br />
+            Check out <a href="http://daniellesden.com/" target="_blank" className="bottom_link">Daniel Sokolovskiy's</a> work! </p>
+        </div>
+        <div className="w-100"></div>
+        <div className="col bottom_text">
+          <h4>Copyright</h4>
+          <p>© 2019 Andrew Tabala</p>
+        </div>
       </div>
     </div>
   );
